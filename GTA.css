@@ -1,0 +1,68 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+html,body
+{
+    height: 100%;
+    width: 100%;
+}
+h1{
+    text-align: center;
+ 
+ color: white;
+ background-color: black;
+
+    
+    font-size: 50px;
+    font-weight: 800;
+    font-family:algerian;
+}
+.green{
+    text-align: center;
+
+    color: green;
+    background-color: black;
+   
+       
+       font-size: 50px;
+       font-weight: 800;
+       font-family:hole text;
+}
+div{
+    align-items: center;
+    align-items: center;
+    background-color: black;
+    justify-content: center;
+    padding: 15px;
+}
+p{
+    color:white ;
+    padding: 15px;
+    font-family: comic sans ms;
+    font-size: 30px;
+    font-weight: 300;
+
+
+}
+label
+{
+    padding: 15px;
+    text-align: center;
+    float: right;
+}
+label a
+{
+text-decoration: none;
+color: white;
+font-size: 25px;
+font-family: comic sans ms;
+
+}
+label a:hover
+{
+    background-color: green;
+    color: black;
+
+}
